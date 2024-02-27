@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Braian-trainee
+- 👋 Hi, I’m Braian
 - 👀 I’m interested in learn more about development languages
-- 🌱 I’m currently learning develop in python 
+- 🌱 I’m currently learning develop in java and javascript
 - 📫 How to reach me: follow me on instagram @uh_braian 
 
 <!---
